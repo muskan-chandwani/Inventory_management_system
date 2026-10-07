@@ -42,3 +42,5 @@ git clone https://github.com/muskan-chandwani/Inventory_management_system.git
 https://github.com/muskan-chandwani/Inventory_management_system.git
 cd Inventory_management_system
 python Inventory_management_system.py
+<img width="587" height="322" alt="image" src="https://github.com/user-attachments/assets/45719245-bbb8-4120-ac2d-90098f9ac79b" />
+

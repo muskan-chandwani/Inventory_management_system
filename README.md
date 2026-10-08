@@ -52,3 +52,4 @@ python Inventory_management_system.py
 
 ### Inventory Report
 ![Inventory Report](Screenshot%202026-10-08%20181909.png)
+

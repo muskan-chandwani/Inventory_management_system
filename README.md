@@ -42,3 +42,13 @@ git clone https://github.com/muskan-chandwani/Inventory_management_system.git
 https://github.com/muskan-chandwani/Inventory_management_system.git
 cd Inventory_management_system
 python Inventory_management_system.py
+## Output Screenshots
+
+### Add Product
+![Add Product](Screenshot%202026-10-08%20181526.png)
+
+### Search Product
+![Search Product](Screenshot%202026-10-08%20181800.png)
+
+### Inventory Report
+![Inventory Report](Screenshot%202026-10-08%20181909.png)
